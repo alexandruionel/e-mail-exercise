@@ -1,1 +1,1 @@
-# e-mail-exercise
+# e-mail counting exercise
