@@ -1,5 +1,4 @@
 import sqlite3
-from sqlite3.dbapi2 import Row
 conn = sqlite3.connect("email.db.sqlite")
 cur = conn.cursor()
 
